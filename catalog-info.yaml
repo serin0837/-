@@ -5,7 +5,7 @@ metadata:
   description: A collection of all Backstage example APIs
 spec:
   targets:
-    - ./apis/hello-world-api.yaml
+    - ./apis/NoGaeBook.yaml
     - ./apis/petstore-api.yaml
     - ./apis/spotify-api.yaml
     - ./apis/streetlights-api.yaml
